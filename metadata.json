@@ -1,0 +1,6 @@
+{
+  "name": "CineLuxe",
+  "description": "CineLuxe is a premium cinematic masterpiece tracker, reviewer, and recommendation hub with custom AI concierge matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
