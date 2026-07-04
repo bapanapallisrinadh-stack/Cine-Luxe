@@ -6,8 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2cda4f40-b190-4af7-9287-88cb15c4c0f6
-
+View APP: (https://cineverse-914069709362.asia-southeast1.run.app/)
 ## Run Locally
 
 **Prerequisites:**  Node.js
